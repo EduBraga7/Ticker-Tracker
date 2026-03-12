@@ -1,0 +1,8 @@
+{
+    "BBAS3.SA": {"quantidade": 100, "preco_medio": 50.50},
+    "VALE3.SA": {"quantidade": 50, "preco_medio": 68.20},
+    "SAPR4.SA": {"quantidade": 1000, "preco_medio": 4.10},
+    "MXRF11.SA": {"quantidade": 500, "preco_medio": 10.15},
+    "IVV": {"quantidade": 5, "preco_medio": 550.00},
+    "BTC-USD": {"quantidade": 0.005, "preco_medio": 320000.00}
+}
